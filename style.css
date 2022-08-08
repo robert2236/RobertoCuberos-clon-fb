@@ -1,0 +1,21 @@
+:root {
+  /* custom properties */
+
+  --white: #ffffff;
+  --blue: #3b5998;
+  --gray: #f9fafc;
+  --dark: #000000;
+  --bluecom: #808cba;
+  /*mobile*/
+}
+body {
+}
+
+html {
+  font-size: 62.5%;
+  box-sizing: border-box;
+}
+
+h2 {
+  font-family: Arial, Helvetica, sans-serif;
+}
